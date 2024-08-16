@@ -1,4 +1,4 @@
-# Bmw Cars
+# Bmw 
 
 Bu repo, BMW arabalarının sergilendiği tamamen duyarlı bir web sitesinin kaynak kodlarını içerir. Web sitesi, HTML ve SCSS kullanılarak oluşturulmuş olup, bakımı ve tekrar kullanımı kolaylaştırmak amacıyla modüler bir SCSS mimarisi ve değişkenler kullanılarak tasarlanmıştır. Tasarım, bir banner içeren bir başlık, arabaların listelendiği ana bir bölüm ve bir altbilgi kısmını içerir.
 
@@ -9,4 +9,4 @@ Bu repo, BMW arabalarının sergilendiği tamamen duyarlı bir web sitesinin kay
 - Kullanıcı Dostu Arabirim: Kullanıcıların arabaları kolayca gözden geçirebilmeleri için sezgisel bir arayüz tasarlanmıştır.
 
 
-# bmw-pro
+
