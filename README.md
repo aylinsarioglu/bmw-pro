@@ -12,6 +12,6 @@ Bu repo, BMW arabalarının sergilendiği tamamen duyarlı bir web sitesinin kay
 # Ekran Kaydı
 
 
-https://github.com/user-attachments/assets/b7047748-a372-4103-982f-119ac4b6d490
+
 
 
